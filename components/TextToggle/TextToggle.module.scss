@@ -1,0 +1,9 @@
+.textHidden {
+    &__content {
+        transition: height 0.5s ease;
+        overflow: hidden;
+    }
+    &__toggleButton {
+        
+    }
+}
